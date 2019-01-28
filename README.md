@@ -12,7 +12,7 @@
 
 # 1.員工資料查詢
 
-![](https://raw.githubusercontent.com/ismeihchen/Image/master/Image/Images/WebAPI/1_Employee_Add.jpg)
+![](https://raw.githubusercontent.com/ismeihchen/Image/master/Image/Images/WebAPI/1_Employee_List.jpg)
 
 # 2.員工新增
 
